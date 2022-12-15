@@ -35,27 +35,25 @@
 
 * Acme Robotics: Manipulator Inverse Kinematics Path Planner :  https://github.com/adarshmalapaka/Acme-Manipulator-IK-Solver, Acme Robotics: Manipulator Inverse Kinematics Path Planner
 
-* Planetary Exploration Autonomous Robot : Designed and assembled a ground robot that traverses a new simulated ’construction zone’ on Mars, and autonomously retrieves
-colored blocks (construction materials) from a cluttered environment.
-https://github.com/adarshmalapaka/autonomous-robotics, https://www.youtube.com/watch?v=vczxY16xsr4&ab_channel=AdarshMalapaka
+* Planetary Exploration Autonomous Robot : Designed and assembled a ground robot that traverses a new simulated ’construction zone’ on Mars, and autonomously retrieves colored blocks (construction materials) from a cluttered environment. [GitHub](https://github.com/adarshmalapaka/autonomous-robotics) [YouTube](https://www.youtube.com/watch?v=vczxY16xsr4&ab_channel=AdarshMalapaka)
 
-* Drivable Ground Path Semantic Segmentation : Implemented a U-Net based Semantic Segmentation architecture to obtain the drivable path in the ground plane for a mobile robot in an indoor environment by fine-tuning a pre-trained model and a custom collected dataset on campus.
+* Drivable Ground Path Semantic Segmentation : Implemented a U-Net based Semantic Segmentation architecture to obtain the drivable path in the ground plane for a mobile robot in an indoor environment by fine-tuning a pre-trained model and a custom collected dataset on campus. [GitHub](https://github.com/adarshmalapaka/ground-plane-segmentation) [YouTube](https://www.youtube.com/watch?v=34u9Obz_LbE&ab_channel=KumaraRitvikOruganti)
 
-https://github.com/adarshmalapaka/ground-plane-segmentation, https://www.youtube.com/watch?v=34u9Obz_LbE&ab_channel=KumaraRitvikOruganti
+* Urban Search and Rescue (US&R) Operation : Simulated a search & rescue operation using two Turtlebot3 robots in Gazebo that detect victims (ArUco markers) in an unknown environment and coordinate with each other to rescue them. [GitHub](https://github.com/adarshmalapaka/Simplified-Urban-Search-and-Rescue-Operation) [YouTube](https://www.youtube.com/watch?v=bqUnzQA4Owg)
+* Satellite Servicing Manipulators : Modeled a 6 DOF satellite servicing robot manipulator drawing inspiration from the European Robotic Arm (ERA) manipulator mounted on a servicing satellite and created an outer-space simulation environment for satellite servicing. [GitHub](https://github.com/adarshmalapaka/satellite-servicer) [YouTube](https://youtu.be/0vtf83gLHIg)
 
-* Urban Search and Rescue (US&R) Operation : Simulated a search & rescue operation using two Turtlebot3 robots in Gazebo that detect victims (ArUco markers) in an unknown environment and coordinate with each other to rescue them.
 
-https://github.com/adarshmalapaka/Simplified-Urban-Search-and-Rescue-Operation, https://www.youtube.com/watch?v=bqUnzQA4Owg
-* Satellite Servicing Manipulators : Modeled a 6 DOF satellite servicing robot manipulator drawing inspiration from the European Robotic Arm (ERA) manipulator mounted on a servicing satellite and created an outer-space simulation environment for satellite servicing.
-
-https://github.com/adarshmalapaka/satellite-servicer, https://youtu.be/0vtf83gLHIg
 
 
 ## ⚙️ &nbsp; Some cool stats!
 
-![Adarsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=adarshmalapaka&show_icons=true&theme=tokyonight)
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=adarshmalapaka&show_icons=true&theme=tokyonight" />
+</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adarshmalapaka&layout=compact&hide=html)](https://github.com/adarshmalapaka/github-readme-stats)
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adarshmalapaka&layout=compact&hide=html" />                                                          
+</p>
 
 ## 🤝🏻 &nbsp; How do I connect with him?
 <p align="center">
