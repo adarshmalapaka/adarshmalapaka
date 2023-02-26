@@ -5,7 +5,7 @@
 
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/40534801/207944948-3f2a4377-4d85-4628-b2a5-cc21698bbe32.jpeg" width="450" height="325"
+<img src="https://user-images.githubusercontent.com/40534801/207944948-3f2a4377-4d85-4628-b2a5-cc21698bbe32.jpeg" width="420" height="305"
 </p>
 
 
@@ -16,7 +16,6 @@
 🎓 &nbsp; Holds a Bachelor of Technology degree in Electrical & Electronics Engineering from the **National Institute of Technology Karnataka (NITK)**, Surathkal, India.\
 💡 &nbsp; Loves robots, trains, music, movies and football.  
 :house: &nbsp; Physically situated near Washington D.C; mentally still is in Chennai, India.
-
 
 ## 🛠 &nbsp; Technologies
 
@@ -29,24 +28,9 @@
    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/> </a> 
    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/> </a> 
     <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="50" height="50"/> </a>
-   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="50" height="50"/> </a> 
+    <a href="https://www.raspberrypi.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/raspberrypi/raspberrypi-ar21.svg" alt="rpi" width="100" height="50"/> </a>    
+    <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="50" height="50"/> </a> 
    </p>
-
-## :clamp: &nbsp; Projects
-
-* Acme Robotics: Manipulator Inverse Kinematics Path Planner :  https://github.com/adarshmalapaka/Acme-Manipulator-IK-Solver, Acme Robotics: Manipulator Inverse Kinematics Path Planner
-
-* Planetary Exploration Autonomous Robot : Designed and assembled a ground robot that traverses a new simulated ’construction zone’ on Mars, and autonomously retrieves colored blocks (construction materials) from a cluttered environment. [GitHub](https://github.com/adarshmalapaka/autonomous-robotics) [YouTube](https://www.youtube.com/watch?v=vczxY16xsr4&ab_channel=AdarshMalapaka)
-
-* Drivable Ground Path Semantic Segmentation : Implemented a U-Net based Semantic Segmentation architecture to obtain the drivable path in the ground plane for a mobile robot in an indoor environment by fine-tuning a pre-trained model and a custom collected dataset on campus. [GitHub](https://github.com/adarshmalapaka/ground-plane-segmentation) [YouTube](https://www.youtube.com/watch?v=34u9Obz_LbE&ab_channel=KumaraRitvikOruganti)
-
-* Urban Search and Rescue (US&R) Operation : Simulated a search & rescue operation using two Turtlebot3 robots in Gazebo that detect victims (ArUco markers) in an unknown environment and coordinate with each other to rescue them. [GitHub](https://github.com/adarshmalapaka/Simplified-Urban-Search-and-Rescue-Operation) [YouTube](https://www.youtube.com/watch?v=bqUnzQA4Owg)
-* Satellite Servicing Manipulators : Modeled a 6 DOF satellite servicing robot manipulator drawing inspiration from the European Robotic Arm (ERA) manipulator mounted on a servicing satellite and created an outer-space simulation environment for satellite servicing. [GitHub](https://github.com/adarshmalapaka/satellite-servicer) [YouTube](https://youtu.be/0vtf83gLHIg)
-
-
-
-
-## ⚙️ &nbsp; Stats!
 
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=adarshmalapaka&show_icons=true&theme=tokyonight" />
@@ -55,6 +39,22 @@
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adarshmalapaka&layout=compact&hide=html" />                                                          
 </p>
+
+## :clamp: &nbsp; Projects
+
+[<img src="assets/667.jpg" width="45%"></img>](https://github.com/adarshmalapaka/ardrone-potential-field-controller)
+[<img src="assets/809t.JPG" width="45%"></img>](https://github.com/adarshmalapaka/autonomous-robotics)
+[<img src="assets/809y.jpg" width="45%"></img>](https://github.com/adarshmalapaka/Simplified-Urban-Search-and-Rescue-Operation)
+<img src="assets/bipedal.gif" width="45%"></img>
+[<img src="assets/cube.png" width="45%"></img>](https://github.com/adarshmalapaka/ar-tag-virtual-cube)
+[<img src="assets/deliverycar.gif" width="45%"></img>](https://github.com/adarshmalapaka/delivery-car)
+[<img src="assets/grounddetect.gif" width="45%"></img>](https://github.com/adarshmalapaka/ground-plane-segmentation)
+[<img src="assets/ikpath.png" width="45%"></img>](https://github.com/adarshmalapaka/Acme-Manipulator-IK-Solver)
+[<img src="assets/mario.png" width="45%"></img>](https://github.com/adarshmalapaka/MARIO-COM)
+[<img src="assets/mr2.gif" width="45%"></img>](https://www.youtube.com/watch?v=dmlCHqx8rUM)
+[<img src="assets/offboard.gif" width="45%"></img>](https://github.com/adarshmalapaka/voxl_offboard)
+[<img src="assets/satservice.jpg" height=275 width="45%"></img>](https://github.com/adarshmalapaka/satellite-servicer)
+    
 
 ## 🤝🏻 &nbsp; Connect
 <p align="center">
