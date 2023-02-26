@@ -10,14 +10,14 @@
 
 
 
-## 👨🏻‍💻 &nbsp; Who is Adarsh?
+## 👨🏻‍💻 &nbsp; About?
 
 🎓 &nbsp; Adarsh is currently pursuing his Master's of Engineering degree in Robotics at the University of Maryland, College Park and expects to graduate in Spring 2023.\
 💡 &nbsp; He loves robots, trains, music, movies and football.  
 :house: &nbsp; He is physically situated near Washington D.C.; mentally still is in Chennai.
 
 
-## 🛠 &nbsp; His Tool Box
+## 🛠 &nbsp; Technologies
 
 <p align="center">
     <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="25" height="25"/>
@@ -45,7 +45,7 @@
 
 
 
-## ⚙️ &nbsp; Some cool stats!
+## ⚙️ &nbsp; Stats!
 
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=adarshmalapaka&show_icons=true&theme=tokyonight" />
@@ -55,7 +55,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adarshmalapaka&layout=compact&hide=html" />                                                          
 </p>
 
-## 🤝🏻 &nbsp; How do I connect with him?
+## 🤝🏻 &nbsp; Connect
 <p align="center">
 <a href="https://www.linkedin.com/in/adarsh-malapaka/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:amalapak@terpmail.umd.edu"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
