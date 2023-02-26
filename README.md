@@ -10,7 +10,7 @@
 
 
 
-## 👨🏻‍💻 &nbsp; About?
+## 👨🏻‍💻 &nbsp; About
 
 🎓 &nbsp; Adarsh is currently pursuing his Master's of Engineering degree in Robotics at the University of Maryland, College Park and expects to graduate in Spring 2023.\
 💡 &nbsp; He loves robots, trains, music, movies and football.  
