@@ -35,7 +35,7 @@ Robots &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nb
 </p> -->
 
 <p align=center>
-Robots, Movies, Football, Music, and Trains.
+🆁🅾🅱🅾🆃🆂 &nbsp; 🅼🅾🆅🅸🅴🆂 &nbsp; 🅵🅾🅾🆃🅱🅰🅻🅻 &nbsp; 🅼🆄🆂🅸🅲 &nbsp; 🅰🅽🅳 &nbsp; 🆃🆁🅰🅸🅽🆂
 </p>
 
 
@@ -44,8 +44,8 @@ Robots, Movies, Football, Music, and Trains.
     &nbsp; &nbsp;
     <img src="https://user-images.githubusercontent.com/40534801/222619212-c1d110dc-5838-48be-82e7-22db5d288367.jpg" width="40%"></img> 
 </p>
-<p align=center>
-    The body is near Washington D.C, but the mind is in Chennai, India.
+<p align=center> 
+𝗟𝗶𝘃𝗲𝘀 𝗻𝗲𝗮𝗿 𝗪𝗮𝘀𝗵𝗶𝗻𝗴𝘁𝗼𝗻 𝗗.𝗖, 𝗯𝘂𝘁 𝘁𝗵𝗲 𝗺𝗶𝗻𝗱 𝗶𝘀 𝗶𝗻 𝗖𝗵𝗲𝗻𝗻𝗮𝗶, 𝗜𝗻𝗱𝗶𝗮.
 </p>
 <!-- <a href="https://www.vecteezy.com/free-vector/washington-dc">Washington Dc Vectors by Vecteezy</a> -->
 
@@ -54,7 +54,6 @@ Robots, Movies, Football, Music, and Trains.
 <p align="center">
     <img src="https://readme-components.vercel.app/api?component=experience&company=umd&role=M.Eng%20Robotics&duration=2y&location=College%20Park,%20MD&fill=04143b"/>
 </p>
-<!--     <img src="https://readme-components.vercel.app/api?component=experience&company=nitksurathkal&role=Visiting%20Undergraduate%20Intern&duration=6m&location=Baltimore%20MD&fill=04143b"/> -->
 
 <p align="center">
     <img src="https://readme-components.vercel.app/api?component=experience&company=mathworks&role=EDG%20Intern&duration=3m&location=Natick,%20MA&fill=04143b"/>
