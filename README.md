@@ -30,9 +30,24 @@
 <img src="https://user-images.githubusercontent.com/40534801/222375350-c5bbdd38-8d3c-4e27-b7d6-adf71f035feb.png" width="10%"></img>
 </p>
 
-<p align=center>
+<!-- <p align=center>
 Robots &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Movies &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Football &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Music &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Trains
+</p> -->
+
+<p align=center>
+Robots, Movies, Football, Music, and Trains.
 </p>
+
+
+<p align=center>
+    <img src="https://user-images.githubusercontent.com/40534801/222619237-960c0520-ad3c-4fe6-a840-32d7256693bf.jpg" width="40%"></img>
+    &nbsp; &nbsp;
+    <img src="https://user-images.githubusercontent.com/40534801/222619212-c1d110dc-5838-48be-82e7-22db5d288367.jpg" width="40%"></img> 
+</p>
+<p align=center>
+    The body is near Washington D.C, but the mind is in Chennai, India.
+</p>
+<!-- <a href="https://www.vecteezy.com/free-vector/washington-dc">Washington Dc Vectors by Vecteezy</a> -->
 
 <br></br>
 
@@ -46,8 +61,7 @@ Robots &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nb
     <img src="https://readme-components.vercel.app/api?component=experience&company=jhu&role=Visiting%20Undergraduate%20Intern&duration=6m&location=Baltimore,%20MD&fill=04143b"/>
 </p>
 
-🎓 &nbsp; Bachelor of Technology (Electrical & Electronics Engineering) from **National Institute of Technology Karnataka (NITK)**, Surathkal, India.\ 
-:house: &nbsp; Physically situated near Washington D.C; mentally still is in Chennai, India.
+<!-- 🎓 &nbsp; Bachelor of Technology (Electrical & Electronics Engineering) from **National Institute of Technology Karnataka (NITK)**, Surathkal, India. -->
 
 
 ## 🛠 &nbsp; Technologies
