@@ -117,3 +117,4 @@ Robots &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nb
 [<img src="assets/mr2.gif" width="30%"></img>](https://www.youtube.com/watch?v=dmlCHqx8rUM)
 [<img src="assets/offboard.gif" width="30%"></img>](https://github.com/adarshmalapaka/voxl_offboard)
 [<img src="assets/satservice.jpg" width="30%"></img>](https://github.com/adarshmalapaka/satellite-servicer)
+[<img src="assets/flipped.png" width="30%"></img>](https://github.com/adarshmalapaka/ARIAC_2023)
